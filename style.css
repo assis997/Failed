@@ -10,3 +10,9 @@ video {
 body {
     background-color: #000;
 }
+
+h1.titlebutton {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
